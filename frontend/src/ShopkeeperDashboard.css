@@ -1,0 +1,35 @@
+.transaction-table-container {
+  max-height: 400px;
+  overflow-y: auto;
+  margin-top: 20px;
+}
+
+.transaction-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.transaction-table th,
+.transaction-table td {
+  padding: 10px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+.transaction-table th {
+  background-color: inherit;
+  font-weight: bold;
+}
+
+.transaction-row:hover {
+  background-color: inherit;
+}
+
+.transaction-amount {
+  font-weight: bold;
+}
+
+.transaction-time {
+  color: #777;
+  font-size: 0.9em;
+}

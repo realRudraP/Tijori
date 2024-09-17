@@ -1,0 +1,68 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# Build directories
+dist/
+build/
+out/
+coverage/
+*.tgz
+
+# Environment files
+.env
+.env.*
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+# Dependency directories
+jspm_packages/
+
+# IDE/editor folders
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# React Native
+.expo/
+*.expo/
+*.expo-shared/
+
+# Storybook
+.storybook/
+public/
+
+# Next.js
+.next/
+out/
+*.next/
+
+# Nuxt.js
+.nuxt/
+*.nuxt/
+
+# Parcel
+.cache/
+*.parcel-cache/
+
+# Miscellaneous
+*.swp
+*.swo
+
+# Ignore everything else
+!public/
+!src/
