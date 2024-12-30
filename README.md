@@ -72,7 +72,7 @@ The project is divided into frontend and backend:
 
 1. Clone the repository:
    ```
-   git clone [repository-url]
+   git clone https://github.com/realRudraP/Tijori.git
    ```
 
 2. Install dependencies for both frontend and backend:
